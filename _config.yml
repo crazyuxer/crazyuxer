@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Crazy UX"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Crazy-Uxer"
+name                     : "CrazyUxer"
 description              : "An amazing website."
 url                      : "https://crazyuxer.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
